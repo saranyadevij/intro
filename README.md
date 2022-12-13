@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saranya devi
-- 👀 I’m interested in Web designing, logo designing, frontend development 
-- 🌱 I’m currently learning Angular framework
+- 👀 I’m interested in Web designing, frontend development, logo designing, graphic designing 
+- 🌱 I’m currently learning Fullstack Development
 - 📫 How to reach me ... writetosaranyaj@gmail.com
 
 <!---
